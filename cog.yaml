@@ -1,8 +1,0 @@
-build:
-  gpu: false
-  python_version: "3.10"
-  python_packages:
-    - pillow
-    - numpy
-
-predict: predict.py:Predictor
